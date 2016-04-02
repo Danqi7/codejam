@@ -32,7 +32,8 @@ int main()
 		else
 			max_ending = 0;
 	}
-
+	
+	// if all numbers are negative
 	if (maxt <= 0)
 		res = 0;
 
